@@ -1,0 +1,7 @@
+{
+  "name": "npm-workspaces-example",
+  "description": "Repro for an issue with npm workspaces",
+  "workspaces": [
+    "packages/*"
+  ]
+}
